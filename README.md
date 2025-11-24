@@ -62,7 +62,7 @@ For each tracked person:
 
 ## Setup (Google Colab)
 
-1. Upload or link the video file:
+1. Upload the video file here:
    ```bash
    /content/people-walking.mp4
-"""
+2. Then Run all cells accordingly.
