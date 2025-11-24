@@ -65,4 +65,4 @@ For each tracked person:
 1. Upload the video file here:
    ```bash
    /content/people-walking.mp4
-2. Then Run all cells accordingly.
+2. Then run all cells accordingly.
